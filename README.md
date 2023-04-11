@@ -1,6 +1,10 @@
 # tugas7
 
 A new Flutter project.
+![image](https://user-images.githubusercontent.com/92065915/231175731-74674740-7b4f-4cc1-b709-aeda4f363f7f.png)
+![image](https://user-images.githubusercontent.com/92065915/231175848-c2b05beb-f9ee-48bd-b2ed-5934cafc454e.png)
+
+
 
 ## Getting Started
 
